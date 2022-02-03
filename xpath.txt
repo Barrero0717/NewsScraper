@@ -1,0 +1,3 @@
+Links = //h3[@class="bbc-t81ytv e1tfxkuo2"]/a/@href
+Titulo = //h1[@class="bbc-1lsgtu3 e1yj3cbb0"]/text()
+Cuerpo = //div[@class="bbc-19j92fr e57qer20"]/p//text()
